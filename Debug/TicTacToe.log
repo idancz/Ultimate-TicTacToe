@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+C:\Users\idan-\Projects\Ultimate-TicTacToe\TicTacToe\Game\stdafx.cpp(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\idan-\Projects\Ultimate-TicTacToe\TicTacToe\Game\stdafx.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  TicTacToe.cpp
+C:\Users\idan-\Projects\Ultimate-TicTacToe\TicTacToe\Game\TicTacToe.cpp(53,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+C:\Users\idan-\Projects\Ultimate-TicTacToe\TicTacToe\Game\TicTacToe.cpp(235): warning C4715: 'find_position': not all control paths return a value
+  TicTacToe.vcxproj -> C:\Users\idan-\Projects\Ultimate-TicTacToe\TicTacToe\Debug\TicTacToe.exe
